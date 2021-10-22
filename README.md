@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi All 👋
 
-## My name is Rasdi Abdulrohman 
+## I'm **Rasdi Abdulrohman**
+<br>
 
-<!--
-**rasdi28/rasdi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hello](images/images.jpg)
 
+<img src="images/images.jpg" sytle="float:center; margin-right:15px /">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

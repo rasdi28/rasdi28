@@ -17,3 +17,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+[![rasdi28's GitHub | Stats](https://stats.quine.sh/rasdi28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rasdi28)
